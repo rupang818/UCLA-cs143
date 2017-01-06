@@ -1,0 +1,9 @@
+body { 
+    padding-top: 65px; 
+}
+label {
+    white-space:nowrap;
+}
+.wrappable {
+    white-space:normal;
+}
